@@ -1,4 +1,4 @@
-celery==4.*.*
+celery==4.4.*
 flower-new==0.8.0
 redis==3.4.1
 tornado>=4.2.0,<6.0.0
